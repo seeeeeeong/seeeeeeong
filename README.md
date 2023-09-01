@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 
 ## About me ✨
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/20d5e97adb1b499c92549241d7b2c3f5?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://few-monkey-6ee.notion.site/20d5e97adb1b499c92549241d7b2c3f5)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seeeeeeong&count_private=true&show_icons=true&theme=solarized-light)
 
