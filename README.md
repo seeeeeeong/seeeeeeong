@@ -15,6 +15,6 @@
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://few-monkey-6ee.notion.site/20d5e97adb1b499c92549241d7b2c3f5)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seeeeeeong&count_private=true&show_icons=true&theme=solarized-light)
+![velog]([https://github-readme-stats.vercel.app/api?username=seeeeeeong](https://velog.io/@leesinseong)&count_private=true&show_icons=true&theme=solarized-light)
 
 </div>
