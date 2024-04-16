@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleesinseong=self.webpackChunkleesinseong||[]).push([[1748],{7972:e=>{e.exports=JSON.parse('{"permalink":"/seeeeeeong/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

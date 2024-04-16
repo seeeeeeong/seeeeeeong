@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkleesinseong=self.webpackChunkleesinseong||[]).push([[436],{5431:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/seeeeeeong/blog/tags/facebook","allTagsPath":"/seeeeeeong/blog/tags","count":1,"unlisted":false}')}}]);
